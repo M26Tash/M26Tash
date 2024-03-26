@@ -5,11 +5,10 @@
 
 
 
-As a Flutter developer with more than one year of experience, I am a skilled professional who specializes in creating mobile applications using Flutter, a popular open-source mobile application development framework. I have a strong foundation in Dart programming language and am knowledgeable about the Flutter framework's concepts and principles. I have experience in designing user interfaces, implementing animations, managing state, and integrating APIs to build robust and scalable mobile applications. My ability to work collaboratively with cross-functional teams, excellent communication skills, and attention to detail make me an asset to any development project.
+As a Flutter developer with more than two year of experience, I am a skilled professional who specializes in creating mobile applications using Flutter, a popular open-source mobile application development framework.
 <div >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m26_tash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m26_tash" height="30" width="40" /></a>
 <a href="https://instagram.com/m26_tash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m26_tash" height="30" width="40" /></a>
 </p>
 
