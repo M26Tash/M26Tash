@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **tasm86688@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B4l_NUlyT07rPP6gics1uG5VB3GAxqOt/view?usp=sharing](https://drive.google.com/file/d/1B4l_NUlyT07rPP6gics1uG5VB3GAxqOt/view?usp=sharing)
-
 - ⚡ Fun fact **I speak 4 language**
 
 <h3 align="left">Connect with me:</h3>
