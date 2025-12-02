@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m26tash" alt="m26tash" /></a> </p>
 
-- 🔭 I’m currently working on **Crypto CRM App**
+- 🔭 I’m currently working on **Updating Portfolio**
 
 - 💬 Ask me about **Flutter & Dart**
 
