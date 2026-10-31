@@ -1,8 +1,7 @@
 # Hello 👋, I'm Muhammed Taş
-### Flutter Developer | Clean Architecture Enthusiast
+### Software Engineer | Building Reliable Software
 
-Currently refining mobile experiences through deep refactoring and performance optimization. 🌿
-Passionate about clean code and reactive persistence.
+Developing maintainable applications, exploring software architecture, and improving performance through clean code and engineering best practices.
 
 ## Contact Me
 <p><a href="www.linkedin.com/in/muhammed-taş-00a01619b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://instagram.com/m26_tash" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
